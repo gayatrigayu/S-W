@@ -1,0 +1,7 @@
+$picnic-primary: #faa;
+
+@import 'bower/picnic/src/picnic';
+
+.call-to-action {
+  @extend %button;
+}
